@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhuvan</h1>
 <h3 align="center">A Fullstack developer from India</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/bhuvan-dv/bhuvan-dv/main/linkedin-banner.png" alt="cover" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/bhuvan-dv/bhuvan-dv/main/linkedin-banner.jpg" alt="cover" /> </p>
 <h3 align="center">Currently pursuing Masters of Science in Software Engineering Systems at Northeastern University, Boston</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-dv&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-dv" /> </p>
