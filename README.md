@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhuvan" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&center=true&vCenter=true&random=false&width=450&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhuvan" alt="Typing SVG" /></a></h1>
 <h3 align="center">A Fullstack developer from India</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/bhuvan-dv/bhuvan-dv/main/linkedin-banner.jpg" alt="cover" /> </p>
 <h3 align="center">Currently pursuing Masters of Science in Software Engineering Systems at Northeastern University, Boston</h3>
