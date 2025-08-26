@@ -23,10 +23,18 @@ Now that I’ve completed my graduate degree, I’m looking to leverage my skill
 ### 🎓 Academic Journey
 Graduated **August 2025** with a Master’s degree in Software Engineering Systems from Northeastern University.  
 My coursework and projects focused on:
+- Theory and Practical Applications of generative AI
 - Software Architecture & Design Patterns
 - System Design & Scalability
 - Advanced Data Structures & Algorithms
 - Cloud Computing & DevOps
+
+## 📚 Teaching & Mentorship
+
+**Teaching Assistant – CSYE 7380: Theory and Practical Applications of AI Generative Modeling**  
+Northeastern University (Spring & Summer 2025)  
+- Assisted in teaching advanced AI concepts, focusing on generative models (GANs, VAEs, Diffusion Models).  
+- Mentored 50+ graduate students, conducted office hours, and provided feedback on projects.  
 
 ---
 
