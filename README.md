@@ -103,7 +103,7 @@
 </tr>
 </table>
 
-
+<!--
 ---
 
 ## 📊 **Impact: Open Source & Contributions**
@@ -111,10 +111,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bhuvan-dv&theme=react&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=bhuvan-dv&show_icons=true&theme=react&hide_border=true" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-dv&layout=compact&theme=react&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-dv&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
+-->
 
 ## 🎓 **Sharing Knowledge**
 > **Teaching Assistant (Spring 2025)** – *CSYE 7380: Generative AI* at **Northeastern University**  
