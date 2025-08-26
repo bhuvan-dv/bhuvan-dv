@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hey there 👋, I'm Bhuvan Raj</h1>
+<h1 align="center">Hey there 👋, I'm Bhuvan D V Raj</h1>
 <h3 align="center">Full-Stack Developer | AI Explorer | Cloud Enthusiast</h3>
 
 <p align="center">
