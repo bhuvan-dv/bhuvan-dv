@@ -1,15 +1,15 @@
-<h3 align="left">Bhuvan Raj</h3>
+<h2 align="left" >Bhuvan Raj</h2>
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/bhuvandv/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhuvandv/" target="blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin">
   </a>
 &thinsp;
-  <a href="https://dev.to/bhuvanraj" target="_blank">
+  <a href="https://dev.to/bhuvanraj" target="blank">
     <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white">
   </a>
 &thinsp;
-  <a href="https://github.com/bhuvan-dv" target="_blank">
+  <a href="https://github.com/bhuvan-dv" target="blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github">
   </a>
 </p>
