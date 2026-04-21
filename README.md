@@ -15,8 +15,7 @@
 </p>
 
 **M.S. Software Engineering Systems** @ Northeastern University  
-**Software Engineer Co-op** @ Fidelity Investments  
-**Software Engineer** @ Idexcel Technologies  
+
 
 **Focus**  
 Backend Systems | AI Engineering | Data Pipelines
