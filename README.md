@@ -21,6 +21,7 @@
 Backend Systems | AI Engineering | Data Pipelines
 
 **Projects**  
+[Beacon By Peasy](https://github.com/bhuvan-dv/Beacon-by-Peasy) — Prevent stockouts before they happen. Beacon monitors inventory runway, flags reorder risks, and streamlines supplier purchase orders. 
 [Agentic RAG](https://github.com/bhuvan-dv/kore.ai-rag) — Retrieval-augmented system for grounded enterprise knowledge search.  
 [Cloud-Native WebApp](https://github.com/CSY6225inc) — AWS-based full-stack platform with Terraform, CI/CD, and observability.  
 [Smart Cooking Assistant](https://github.com/bhuvan-dv/smart-cooking-assistant) — LLM-powered recipe assistant built with distributed backend workflows.  
